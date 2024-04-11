@@ -1,0 +1,11 @@
+.bg-gradient{
+    background: rgb(255, 255, 255);
+background: linear-gradient(90deg, rgb(72, 235, 159) 0%, rgb(231, 231, 236) 50%, rgb(40, 212, 247) 100%)!important
+}
+
+.row{
+    min-height: 400px;
+    text-align: center;
+}
+
+
